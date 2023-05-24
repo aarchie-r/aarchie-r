@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=aarchie-r)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aarchie-a459641b9/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarchie-r&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-q9ew-git-master-aarchie-r.vercel.app/api?username=aarchie-r&show_icons=true&theme=tokyonight)
 
 ## 🧰 Languages:
 <p align="center">
